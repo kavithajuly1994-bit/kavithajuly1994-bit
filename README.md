@@ -6,21 +6,23 @@ Hi 👋 I’m Kavitha
 ---
 About Me
 
-- Experience in web research analyst, Email Campaign Manager. 
-  Strong in data cleaning, Visualization and reporting. 
-  Skilled in creating interactive dashboards and reports  
-  Currently preparing for Data Analyst roles  
+* Experience in web research analyst, Email Campaign Manager. 
+* Strong in data cleaning, Visualization and reporting. 
+* Skilled in creating interactive dashboards and reports  
+* Currently preparing for Data Analyst roles  
 
 ---
 Skills
 
-Power BI (DAX, Power Query, Data Modeling)  
-Advanced Excel, Pivot Tables, VLOOKUP/XLOOKUP  
-Data Visualization & Reporting
+* Power BI (DAX, Power Query, Data Modeling)  
+* Advanced Excel, Pivot Tables, VLOOKUP/XLOOKUP  
+* Data Visualization & Reporting
 
 ---
 Projects
-📌 **Snitch Fashion Sales Analysis**  
+
+ 📈 Snitch Fashion Sales Analysis
+     Excel Dashboard
  
 ---
 Connect With Me
