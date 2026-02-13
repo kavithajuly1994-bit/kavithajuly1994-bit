@@ -1,16 +1,28 @@
-## Hi there I am Kavitha R👋
+Hi 👋 I’m Kavitha
 
-<!--
-**kavithajuly1994-bit/kavithajuly1994-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | Power BI | Excel | SQL | Python  
+📍 India
 
-Here are some ideas to get you started:
+---
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Experience in web research analyst, Email Campaign Manager. 
+  Strong in data cleaning, Visualization and reporting. 
+  Skilled in creating interactive dashboards and reports  
+  Currently preparing for Data Analyst roles  
+
+---
+Skills
+
+Power BI (DAX, Power Query, Data Modeling)  
+Advanced Excel, Pivot Tables, VLOOKUP/XLOOKUP  
+Data Visualization & Reporting
+
+---
+Projects
+📌 **Snitch Fashion Sales Analysis**  
+ 
+---
+Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/kavitha-ramalingam-95326335a/
+- 📧 Email: kavithajuly1994@gmail.com
